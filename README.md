@@ -1,5 +1,9 @@
-### Hi!, I am Javier, a Backend Dev from Spain 👋
+### Hi!, I am Javier, a Backend Dev from Spain 👋 
 
+ <a href="https://stackoverflow.com/users/30500282/your-username">
+      <img src="https://stackoverflow.com/users/flair/30500282.png" width="208" height="58" alt="profile for your-username at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for your-username at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+<br>
 I am a passionate backend engineer with a strong focus on building scalable and efficient systems. With a deep understanding of server-side technologies and a knack for problem-solving, I strive to create robust and maintainable code. My expertise lies in designing APIs, managing databases, and ensuring seamless integration between various services.
 
 I have a C1 level in English and I am a native Spanish speaker.
@@ -13,25 +17,18 @@ I have a C1 level in English and I am a native Spanish speaker.
 - 🤔 Evaluating, "Is the complexity of the software increasing linearly or exponentially?"  
 
 
-### Stack and Support
+### Stack
 
 <table>
   <tr>
     <th><b>Category</b></th>
     <th><b>Stack</b></th>
-    <th><b>Support</b></th>
   </tr>
   <tr>
     <td><b>Operating Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    </td>
-    <td rowspan="7" align="center" valign="middle">
-      Stackoverflow
-    <a href="https://stackoverflow.com/users/30500282/your-username">
-      <img src="https://stackoverflow.com/users/flair/30500282.png" width="208" height="58" alt="profile for your-username at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for your-username at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-    </a>
     </td>
   </tr>
   <tr>
