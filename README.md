@@ -12,8 +12,6 @@ I have a C1 level in English and I am a native Spanish speaker.
 - 🔒 Asking, "Is the software secure?"  
 - 🤔 Evaluating, "Is the complexity of the software increasing linearly or exponentially?"  
 
----
-
 ### 🧰 Tech Stack
 
 <table>
