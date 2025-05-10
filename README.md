@@ -13,12 +13,12 @@ I have a C1 level in English and I am a native Spanish speaker.
 - 🤔 Evaluating, "Is the complexity of the software increasing linearly or exponentially?"  
 
 
-### 🧰 Tech Stack
+### Stack and Profiles
 
 <table>
   <tr>
     <th><b>Category</b></th>
-    <th><b>Tools</b></th>
+    <th><b>Stack</b></th>
     <th><b>Profiles</b></th>
   </tr>
   <tr>
@@ -28,8 +28,8 @@ I have a C1 level in English and I am a native Spanish speaker.
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </td>
     <td rowspan="7" align="center" valign="middle">
-      <a href="https://stackoverflow.com/users/123456/yourname">
-        <img src="https://stackoverflow-card.vercel.app/?userID=123456" alt="Stack Overflow Stats">
+      <a href="https://stackoverflow.com/users/30500282/javier-moubayyed">
+        <img src="https://stackoverflow-card.vercel.app/?userID=30500282" alt="Stack Overflow Stats">
       </a>
     </td>
   </tr>
