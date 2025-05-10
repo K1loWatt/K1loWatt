@@ -75,6 +75,7 @@ I have a C1 level in English and I am a native Spanish speaker.
 </table>
 
 Also i like to support, learn and help through StackOverflow: <br>
+<br>
 <a href="https://stackoverflow.com/users/30500282/your-username">
   <img src="https://stackoverflow.com/users/flair/30500282.png" width="416" height="116" alt="profile for your-username at Stack Overflow" title="profile for your-username at Stack Overflow">
 </a>
