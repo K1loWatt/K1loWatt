@@ -1,8 +1,4 @@
-### Hi!, I am Javier, a Backend Dev from Spain 👋 
-
- <a href="https://stackoverflow.com/users/30500282/your-username">
-      <img src="https://stackoverflow.com/users/flair/30500282.png" width="208" height="58" alt="profile for your-username at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for your-username at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+### Hi!, I am Javier, a Backend Dev from Spain 👋 <a href="https://stackoverflow.com/users/30500282/your-username"><img src="https://stackoverflow.com/users/flair/30500282.png" width="208" height="58" alt="profile for your-username at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for your-username at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br>
 I am a passionate backend engineer with a strong focus on building scalable and efficient systems. With a deep understanding of server-side technologies and a knack for problem-solving, I strive to create robust and maintainable code. My expertise lies in designing APIs, managing databases, and ensuring seamless integration between various services.
 
