@@ -12,14 +12,26 @@ I have a C1 level in English and I am a native Spanish speaker.
 - 🔒 Asking, "Is the software secure?"  
 - 🤔 Evaluating, "Is the complexity of the software increasing linearly or exponentially?"  
 
+---
+
 ### 🧰 Tech Stack
 
 <table>
+  <tr>
+    <th><b>Category</b></th>
+    <th><b>Tools</b></th>
+    <th><b>Profiles</b></th>
+  </tr>
   <tr>
     <td><b>Operating Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+    <td rowspan="7" align="center" valign="middle">
+      <a href="https://stackoverflow.com/users/your-user-id">
+        <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+      </a>
     </td>
   </tr>
   <tr>
