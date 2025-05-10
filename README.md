@@ -28,5 +28,4 @@ I have a C1 level in English and I am a native Spanish speaker.
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
 </p>
-
-![Stack Overflow Badge](https://stackoverflow.com/users/flair/22656.png?theme=clean =300x)
+<img src="https://stackoverflow.com/users/flair/22656.png?theme=clean" width="300" />
